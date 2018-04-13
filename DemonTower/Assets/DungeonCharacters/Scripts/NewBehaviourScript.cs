@@ -20,7 +20,7 @@ public class NewBehaviourScript : MonoBehaviour {
   
     // Update is called once per frame
     void Update () {
-        walkAround();
+        //walkAround();
         //if(arrived == true)
         //{
         //    transform.Rotate(0, 180, 0);
@@ -28,7 +28,7 @@ public class NewBehaviourScript : MonoBehaviour {
         //}
         //Vector3 v = transform.forward;
         //print(v.x + "  " + v.y + "  " + v.z);
-        //operation();
+        operation();
     }
 
     public void operation()
