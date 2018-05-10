@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: 09612ac50b7535748b74346c4ff91e30
+timeCreated: 1525925873
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box03
+    100004: Box1065
+    100006: Box1065 1
+    100008: Box1073
+    100010: Box1074
+    100012: Box1075
+    100014: Box12
+    100016: Box15
+    100018: Box30
+    100020: Box31
+    100022: Camera01
+    100024: Camera01.Target
+    100026: Cylinder01
+    100028: Cylinder11
+    100030: Cylinder12
+    100032: Cylinder13
+    100034: Group255552
+    100036: Group255553
+    100038: Group255554
+    100040: Group255555
+    100042: Group255556
+    100044: Group255557
+    100046: Group255558
+    100048: Group255559
+    100050: Group255560
+    100052: Helix11
+    100054: Helix11 1
+    100056: Helix19
+    100058: Helix20
+    100060: Helix23
+    100062: Helix24
+    100064: Helix25
+    100066: Line03
+    100068: Line05
+    100070: Line06
+    100072: Line108
+    100074: Line113
+    100076: Line126
+    100078: Line127
+    100080: Line128
+    100082: Line37
+    100084: Line37 1
+    100086: Object01
+    100088: Object02
+    100090: Object07
+    100092: Object129
+    100094: Object130
+    100096: Object131
+    100098: Object132
+    100100: Object133
+    100102: Object134
+    100104: Object135
+    100106: Object136
+    100108: Object142
+    100110: Object143
+    100112: Object144
+    100114: Object145
+    100116: Object146
+    100118: Object149
+    100120: Object150
+    100122: Object151
+    100124: Object152
+    100126: Object153
+    100128: Object154
+    100130: Object155
+    100132: Object156
+    100134: Object157
+    100136: Object158
+    100138: Object18
+    100140: Object19
+    100142: Object24
+    100144: Object26
+    100146: Object33
+    100148: Omni03
+    100150: Particle View 01
+    100152: Shape02
+    100154: Shape03
+    100156: Shape04
+    100158: Shape05
+    100160: Shape06
+    100162: Shape07
+    100164: Shape08
+    100166: Sphere01
+    100168: "\u56FE\u5F6201"
+    100170: "\u7EC4134"
+    100172: "\u7EC4134 1"
+    400000: //RootNode
+    400002: Box03
+    400004: Box1065
+    400006: Box1065 1
+    400008: Box1073
+    400010: Box1074
+    400012: Box1075
+    400014: Box12
+    400016: Box15
+    400018: Box30
+    400020: Box31
+    400022: Camera01
+    400024: Camera01.Target
+    400026: Cylinder01
+    400028: Cylinder11
+    400030: Cylinder12
+    400032: Cylinder13
+    400034: Group255552
+    400036: Group255553
+    400038: Group255554
+    400040: Group255555
+    400042: Group255556
+    400044: Group255557
+    400046: Group255558
+    400048: Group255559
+    400050: Group255560
+    400052: Helix11
+    400054: Helix11 1
+    400056: Helix19
+    400058: Helix20
+    400060: Helix23
+    400062: Helix24
+    400064: Helix25
+    400066: Line03
+    400068: Line05
+    400070: Line06
+    400072: Line108
+    400074: Line113
+    400076: Line126
+    400078: Line127
+    400080: Line128
+    400082: Line37
+    400084: Line37 1
+    400086: Object01
+    400088: Object02
+    400090: Object07
+    400092: Object129
+    400094: Object130
+    400096: Object131
+    400098: Object132
+    400100: Object133
+    400102: Object134
+    400104: Object135
+    400106: Object136
+    400108: Object142
+    400110: Object143
+    400112: Object144
+    400114: Object145
+    400116: Object146
+    400118: Object149
+    400120: Object150
+    400122: Object151
+    400124: Object152
+    400126: Object153
+    400128: Object154
+    400130: Object155
+    400132: Object156
+    400134: Object157
+    400136: Object158
+    400138: Object18
+    400140: Object19
+    400142: Object24
+    400144: Object26
+    400146: Object33
+    400148: Omni03
+    400150: Particle View 01
+    400152: Shape02
+    400154: Shape03
+    400156: Shape04
+    400158: Shape05
+    400160: Shape06
+    400162: Shape07
+    400164: Shape08
+    400166: Sphere01
+    400168: "\u56FE\u5F6201"
+    400170: "\u7EC4134"
+    400172: "\u7EC4134 1"
+    2000000: Camera01
+    2300000: Box03
+    2300002: Box1065
+    2300004: Box1065 1
+    2300006: Box1073
+    2300008: Box1074
+    2300010: Box1075
+    2300012: Box12
+    2300014: Box15
+    2300016: Box30
+    2300018: Box31
+    2300020: Cylinder01
+    2300022: Cylinder11
+    2300024: Cylinder12
+    2300026: Cylinder13
+    2300028: Helix11
+    2300030: Helix11 1
+    2300032: Helix19
+    2300034: Helix20
+    2300036: Helix23
+    2300038: Helix24
+    2300040: Helix25
+    2300042: Line03
+    2300044: Line05
+    2300046: Line06
+    2300048: Line108
+    2300050: Line113
+    2300052: Line126
+    2300054: Line127
+    2300056: Line128
+    2300058: Line37 1
+    2300060: Object01
+    2300062: Object02
+    2300064: Object07
+    2300066: Object129
+    2300068: Object130
+    2300070: Object131
+    2300072: Object132
+    2300074: Object133
+    2300076: Object134
+    2300078: Object135
+    2300080: Object136
+    2300082: Object142
+    2300084: Object143
+    2300086: Object144
+    2300088: Object145
+    2300090: Object146
+    2300092: Object149
+    2300094: Object150
+    2300096: Object151
+    2300098: Object152
+    2300100: Object153
+    2300102: Object154
+    2300104: Object155
+    2300106: Object156
+    2300108: Object157
+    2300110: Object158
+    2300112: Object18
+    2300114: Object19
+    2300116: Object24
+    2300118: Object26
+    2300120: Object33
+    2300122: Shape04
+    2300124: Shape05
+    2300126: Shape06
+    2300128: Shape07
+    2300130: Shape08
+    2300132: Sphere01
+    2300134: "\u56FE\u5F6201"
+    3300000: Box03
+    3300002: Box1065
+    3300004: Box1065 1
+    3300006: Box1073
+    3300008: Box1074
+    3300010: Box1075
+    3300012: Box12
+    3300014: Box15
+    3300016: Box30
+    3300018: Box31
+    3300020: Cylinder01
+    3300022: Cylinder11
+    3300024: Cylinder12
+    3300026: Cylinder13
+    3300028: Helix11
+    3300030: Helix11 1
+    3300032: Helix19
+    3300034: Helix20
+    3300036: Helix23
+    3300038: Helix24
+    3300040: Helix25
+    3300042: Line03
+    3300044: Line05
+    3300046: Line06
+    3300048: Line108
+    3300050: Line113
+    3300052: Line126
+    3300054: Line127
+    3300056: Line128
+    3300058: Line37 1
+    3300060: Object01
+    3300062: Object02
+    3300064: Object07
+    3300066: Object129
+    3300068: Object130
+    3300070: Object131
+    3300072: Object132
+    3300074: Object133
+    3300076: Object134
+    3300078: Object135
+    3300080: Object136
+    3300082: Object142
+    3300084: Object143
+    3300086: Object144
+    3300088: Object145
+    3300090: Object146
+    3300092: Object149
+    3300094: Object150
+    3300096: Object151
+    3300098: Object152
+    3300100: Object153
+    3300102: Object154
+    3300104: Object155
+    3300106: Object156
+    3300108: Object157
+    3300110: Object158
+    3300112: Object18
+    3300114: Object19
+    3300116: Object24
+    3300118: Object26
+    3300120: Object33
+    3300122: Shape04
+    3300124: Shape05
+    3300126: Shape06
+    3300128: Shape07
+    3300130: Shape08
+    3300132: Sphere01
+    3300134: "\u56FE\u5F6201"
+    4300000: Box15
+    4300002: Box31
+    4300004: Line113
+    4300006: Line126
+    4300008: Helix19
+    4300010: Box1073
+    4300012: Line37
+    4300014: Helix11
+    4300016: Box1065
+    4300018: Helix11
+    4300020: Object142
+    4300022: Object143
+    4300024: Object33
+    4300026: Object01
+    4300028: Object02
+    4300030: Object144
+    4300032: Object145
+    4300034: Object146
+    4300036: Shape04
+    4300038: Object26
+    4300040: Line108
+    4300042: Shape05
+    4300044: Line03
+    4300046: Object07
+    4300048: Box30
+    4300050: Line127
+    4300052: Shape06
+    4300054: Object155
+    4300056: Line128
+    4300058: Shape07
+    4300060: Object156
+    4300062: Box1074
+    4300064: Box03
+    4300066: Line06
+    4300068: Box1065
+    4300070: Line05
+    4300072: "\u56FE\u5F6201"
+    4300074: Object24
+    4300076: Object19
+    4300078: Object136
+    4300080: Object132
+    4300082: Object133
+    4300084: Object18
+    4300086: Sphere01
+    4300088: Object130
+    4300090: Object135
+    4300092: Object134
+    4300094: Object129
+    4300096: Object131
+    4300098: Object154
+    4300100: Object151
+    4300102: Object152
+    4300104: Helix24
+    4300106: Cylinder12
+    4300108: Cylinder13
+    4300110: Object157
+    4300112: Shape08
+    4300114: Object158
+    4300116: Helix25
+    4300118: Object150
+    4300120: Object149
+    4300122: Helix23
+    4300124: Cylinder11
+    4300126: Box1075
+    4300128: Box12
+    4300130: Object153
+    4300132: Cylinder01
+    4300134: Helix20
+    9500000: //RootNode
+    10800000: Omni03
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1959037936'
+    second: {fileID: 2100000, guid: 7affb0943d6f5a34083a5a454a387dd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2'
+    second: {fileID: 2100000, guid: 9b220c782f42e384493b045b562b4ca7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #3'
+    second: {fileID: 2100000, guid: 99758dfa6a8670b4193a2cde1d5105bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gu222222222222222
+    second: {fileID: 2100000, guid: c32a6beedee21624fa72a57bbf911a96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u94C1\u76AE"
+    second: {fileID: 2100000, guid: 8be9be3c39d17364ca3b1c20f69ab0a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u94C1\u76AEfff"
+    second: {fileID: 2100000, guid: 67c252b226a31dd4996b669be2f1571c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u94C1\u76AEffff"
+    second: {fileID: 2100000, guid: 8e466a03cb37c554589208c13de8a950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u9EC4\u91D1"
+    second: {fileID: 2100000, guid: 5fb21d0a25a6af04b899b42ea5d038b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u9EC4\u91D1 \u5C4B2222\u6A90ewewe"
+    second: {fileID: 2100000, guid: ea474315c275290429c5b7379dac6169, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u9EC4\u91D1 \u5C4B222\u6A90ewewe"
+    second: {fileID: 2100000, guid: c99edcdd280593e4bbfdf7e08184e5e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u9EC4\u91D1 \u5C4B\u6A90222"
+    second: {fileID: 2100000, guid: 26b59b55b84c6184e99b47190ee30c13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u9EC4\u91D1 \u5C4B\u6A90222222"
+    second: {fileID: 2100000, guid: e7b9879c5448a0a4280259d56ab8b33d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u9EC4\u91D1 \u5C4B\u6A90ewew222222e"
+    second: {fileID: 2100000, guid: d548bc93e49ccf345963b1a1692c18d5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
